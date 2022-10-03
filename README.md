@@ -41,8 +41,3 @@ Se han editado los archivos estrictamente necesarios para el funcionamiento de l
 [public/assets/js/product-modal-delete.js](https://github.com/dwesizv/productoApp/blob/main/public/assets/js/product-modal-delete.js)  
 [resources/views/*](https://github.com/dwesizv/productoApp/tree/main/resources/views)  
 [routes/web.php](https://github.com/dwesizv/productoApp/blob/main/routes/web.php)  
-
- 
- 
-# 2-DAW
-# 2-DAW
